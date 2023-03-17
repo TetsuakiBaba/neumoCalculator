@@ -2,16 +2,23 @@
 neumophic like desktop calculator.
 ![teaser.png](./teaser.png)
 
-# try
+# try now
+  * https://tetsuakibaba.github.io/neumoCalculator/
+
+# try on your desktop
+  ```
   clone git https://github.com/TetsuakiBaba/neumoCalculator.git
   cd neumoCalculator
   npm install
   npm start
+  ```
 
 # build app
-  npm run make
+```
+npm run make
+```
 
 check out directory.
 
-# contribution
+# Thanks
  * chatGPT v4
